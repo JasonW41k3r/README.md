@@ -1,5 +1,5 @@
 
-![d2f147b379326456a2b4fcea28ea06fe4e910ce4]([https://github.com/JasonW41k3r/README.md/blob/main/28572.png])
+![d2f147b379326456a2b4fcea28ea06fe4e910ce4]([https://raw.githubusercontent.com/JasonW41k3r/README.md/main/28572.png])
 
 Sun Yat-sen University (SYSU) School of Computer Science and Engineering
 - Major in Computer Science and Technology / Minor in Finance
